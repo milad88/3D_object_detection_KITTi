@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "3d_object_detection_kitti"
+version = "0.1.0"
+description = ""
+authors = ["milad88 <miladkiwan@hotmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy=">=2.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
